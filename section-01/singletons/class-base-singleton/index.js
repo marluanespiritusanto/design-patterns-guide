@@ -1,5 +1,5 @@
-const _userService = require("./user.service");
-const _anotherUserService = require("./user.service");
+const _userService = require("./user-service");
+const _anotherUserService = require("./user-service");
 
 console.log("(1) - Printing current users: ");
 _userService
