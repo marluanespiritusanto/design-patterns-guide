@@ -1,1 +1,1 @@
-# Structural Patterns
+# Behaviour Patterns

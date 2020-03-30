@@ -1,1 +1,1 @@
-# Module Patterns
+# Structural Patterns

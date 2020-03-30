@@ -1,1 +1,1 @@
-# Control Flow Patterns
+# Module Patterns
