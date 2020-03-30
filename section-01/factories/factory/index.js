@@ -1,5 +1,5 @@
-const iPhoneXR = require("./iPhoneXR");
-const iPhoneXS = require("./iPhoneXS");
+const iPhoneXR = require("./iphone-xr");
+const iPhoneXS = require("./iphone-xs");
 
 const myiPhoneXR = new iPhoneXR("000123100");
 const myiPhoneXS = new iPhoneXS("2428346723");
